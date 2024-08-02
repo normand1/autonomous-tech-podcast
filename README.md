@@ -114,6 +114,8 @@ Remember, in this grand open-source adventure, every contribution, no matter how
 
 This is your golden ticket to shape the future of AI podcasts. It's the perfect blend of human creativity and AI capability, like peanut butter and jelly, but for your ears!
 
+![Alt](https://repobeats.axiom.co/api/embed/14287e4949404ce914868187d3be5a900235d4f9.svg "Repobeats analytics image")
+
 Remember, our AI is a constant work in progress, always learning and evolving. So sprinkle a bit of your human magic into these configuration files, and let's cook up some audio awesomeness!
 
 **TL;DR:** This AI needs YOUR uniquely human touch to make our podcast truly extraordinary! Let's make some noise! 🥳
